@@ -1,4 +1,8 @@
 # 航迹绘制工具:TrajPlot
+# 工具制作：
+pip install pyinstaller
+pyinstaller -F -w -i 285647_globe_icon.ico main.py
+得到dist文件夹下main.exe
 
 ## 1.选择导入文件夹
 
